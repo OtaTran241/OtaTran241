@@ -1,5 +1,9 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="100px"></p>
-<h1 align="center">Hi, I'm Ota. Information technology student with a passion for exploring technology and artificial intelligence 💻</h1>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="100"> I'm Ota</h3>
+
+<h1 align="center">💻 Information technology student with a passion for exploring technology and artificial intelligence 💻</h1>
+
+---
 
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr style="border: 1px solid white;">
@@ -31,25 +35,6 @@
       <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
     </td>
   </tr>
-</table>
----
-
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My Statistics: </h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OtaTran241&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OtaTran241&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaTran241&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
 </table>
 
 ---
@@ -95,6 +80,26 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=synthwave" />
 </a>
 </p>
+
+---
+
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My Statistics</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OtaTran241&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OtaTran241&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaTran241&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ---
 
