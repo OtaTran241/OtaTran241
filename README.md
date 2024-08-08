@@ -2,42 +2,6 @@
 <h2 align="center">💻 Information technology student with a passion for exploring Technology and Artificial Intelligence 💻</h2>
 
 ---
-
-<table align="center" border="1" style="border-collapse: collapse;">
-  <tr style="border: 1px solid white;">
-    <td width="70%" align="left">
-      - 🌱 Major: Computer Vision<br>
-      - 🧑‍🎓 University: HUIT<br>
-      - 📫 Contact Information: tranducthuan220401@gmail.com<br>
-      - ⚡ Call me: Ota<br>
-      - 😻 Interests: Cat, Exploring new technology, ...
-    </td>
-    <td width="50%" align="center">
-      <table>
-        <tr>
-          <td align="center" valign="middle"><strong>Ask me about</strong></td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle">Machine Learning</td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle">Data Science</td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle">Artificial Intelligence</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr style="border: 1px solid white;">
-    <td colspan="2" align="center">
-      <img style="float: right;" align="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
-    </td>
-  </tr>
-</table>
-
----
-
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr style="border: 1px solid white;">
     <td width="60%" align="left">
