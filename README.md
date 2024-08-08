@@ -4,7 +4,7 @@
 ---
 <table align="center" border="2" style="border-collapse: collapse;">
   <tr style="border: 2px solid white;">
-    <td width="35%" align="left">
+    <td width="40%" align="left">
       <table>
         <tr>
           <td align="center" valign="middle"><strong>About me</strong></td>
@@ -23,7 +23,7 @@
         </tr>
       </table>
     </td>
-    <td width="35%" align="center">
+    <td width="20%" align="center">
       <table>
         <tr>
           <td align="center" valign="middle"><strong>Ask me about</strong></td>
@@ -42,7 +42,7 @@
         </tr>
       </table>
     </td>
-    <td width="30%" align="center">
+    <td width="40%" align="center">
       <img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
     </td>
   </tr>
