@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages and Tools</h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25"> Languages and Tools</h3>
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
