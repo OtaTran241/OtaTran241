@@ -1,5 +1,5 @@
-<h5 align="center" style="font-size: 10000px;"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="50"> I'm Ota</h5>
-<h1 align="center">💻 Information technology student with a passion for exploring technology and artificial intelligence 💻</h1>
+<h1 align="center" style="font-size: 10000px;"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="50"> I'm Ota</h1>
+<h2 align="center">💻 Information technology student with a passion for exploring Technology and Artificial Intelligence 💻</h2>
 
 ---
 
