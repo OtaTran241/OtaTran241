@@ -47,19 +47,19 @@
 <a href="https://github.com/OtaTran241/AI_Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=AI_Assistant&theme=tokyonight" />
 </a>
-<a href="https://github.com/OtaTran241/AI-Virtual-Keyboard-Using-OpenCV">
+<a href="https://github.com/OtaTran241/ChickenInvaders_HandPoseEstimation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=cobalt" />
 </a>
-<a href="https://github.com/OtaTran241/Hand-Sign-Language-Recognition-Pytorch-MediaPipe">
+<a href="https://github.com/OtaTran241/Stock_Price_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Stock_Price_Prediction&theme=gruvbox" />
 </a>
-<a href="https://github.com/OtaTran241/Air-Canvas-ML-Model">
+<a href="https://github.com/OtaTran241/VehiclesDetection_FasterRCNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=onedark" />
 </a>
-<a href="https://github.com/OtaTran241/Image-Classification-with-TensorFlow">
+<a href="https://github.com/OtaTran241/Remove_Background_With_GAN_Network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Remove_Background_With_GAN_Network&theme=dracula" />
 </a>
-<a href="https://github.com/OtaTran241/Real-Time-Object-Detection">
+<a href="https://github.com/OtaTran241/2.5D_Unity_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=synthwave" />
 </a>
 </p>
