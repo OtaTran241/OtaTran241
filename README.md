@@ -42,7 +42,7 @@
         </tr>
       </table>
     </td>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
     </td>
   </tr>
