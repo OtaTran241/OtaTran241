@@ -69,11 +69,11 @@
 <a href="https://github.com/OtaTran241/Stock_Price_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Stock_Price_Prediction&theme=gruvbox" />
 </a>
-<a href="https://github.com/OtaTran241/VehiclesDetection_FasterRCNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=onedark" />
-</a>
 <a href="https://github.com/OtaTran241/Remove_Background_With_GAN_Network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Remove_Background_With_GAN_Network&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Remove_Background_With_GAN_Network&theme=onedark" />
+</a>
+<a href="https://github.com/OtaTran241/VehiclesDetection_FasterRCNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=dracula" />
 </a>
 <a href="https://github.com/OtaTran241/2.5D_Unity_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=synthwave" />
