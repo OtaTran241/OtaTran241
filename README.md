@@ -139,5 +139,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/thuantran241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="linkedin"/></a>
 <a href="https://www.facebook.com/ducthuan224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" alt="facebook"/></a>
-<a href="mailto:tranducthuan220401@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/33a95969-ea3e-456d-86af-ebcc04ccfdeb" height="40" width="40" alt="email"/></a>
+<a href="mailto:tranducthuan220401@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d70c2f18-c123-40ce-a643-8ab2721d702d" height="40" width="40" alt="email"/></a>
 </p>
