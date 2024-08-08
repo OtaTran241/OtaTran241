@@ -10,10 +10,10 @@
           <td align="center" valign="middle"><strong>About me</strong></td>
         </tr>
         <tr>
-          <td align="center" valign="middle">Major: Computer Vision</td>
+          <td align="center" valign="middle">University: HUIT</td>
         </tr>
         <tr>
-          <td align="center" valign="middle">University: HUIT</td>
+          <td align="center" valign="middle">Major: Computer Vision</td>
         </tr>
         <tr>
           <td align="center" valign="middle">Contact: tranducthuan220401@gmail.com</td>
