@@ -6,9 +6,9 @@
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr style="border: 1px solid white;">
     <td width="70%" align="left">
-      - 🌱 I’m currently learning: Computer Vision<br>
-      - 🧑‍🎓 I’m an Undergraduate at: HUIT<br>
-      - 📫 How to reach me: tranducthuan220401@gmail.com<br>
+      - 🌱 Major: Computer Vision<br>
+      - 🧑‍🎓 University: HUIT<br>
+      - 📫 Contact Information: tranducthuan220401@gmail.com<br>
       - ⚡ Call me: Ota
     </td>
     <td width="50%" align="center">
