@@ -3,7 +3,7 @@
 
 ---
 <table align="center" border="2" style="border-collapse: collapse;">
-  <tr style="border: 2px solid white;">
+  <tr>
     <td width="40%" align="left">
       <table>
         <tr>
