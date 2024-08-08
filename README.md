@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="25">
+  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="180">
   Ota
-  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="25">
+  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="180">
 </h1><p align="center">
 <h2 align="center">💻 IT student passionate about Technology and AI 💻</h2>
 
