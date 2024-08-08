@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="100px"></p>
-<h3 align="center"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="100"> I'm Ota</h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="50"> I'm Ota</h3>
 
 <h1 align="center">💻 Information technology student with a passion for exploring technology and artificial intelligence 💻</h1>
 
