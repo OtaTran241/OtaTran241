@@ -115,7 +115,7 @@
 
 <h3 align="center">
   <img src="https://media3.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="25">
-  Languages and Tools
+  Contact 
   <img src="https://media3.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="25">
 </h3><p align="center">
 <p align="center">
