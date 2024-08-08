@@ -7,7 +7,7 @@
       - 🌱 I’m currently learning: Computer Vision<br>
       - 🧑‍🎓 I’m an Undergraduate at: HUIT<br>
       - 📫 How to reach me: tranducthuan220401@gmail.com<br>
-      - ⚡ Fun fact: You can call me Ota
+      - ⚡ Call me: Ota
     </td>
     <td width="50%" align="center">
       <table>
