@@ -54,11 +54,11 @@
 
 ---
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
   Projects
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
-</h3><p align="center">
+</h2><p align="center">
   
 <a href="https://github.com/OtaTran241/AI_Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=AI_Assistant&theme=tokyonight" />
@@ -81,11 +81,11 @@
 </p>
 
 ---
-<h3 align="center">
+<h2 align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
   Languages and Tools
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
-</h3><p align="center">
+</h2><p align="center">
   
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -131,11 +131,11 @@
 
 ---
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://media3.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="25">
   Contact 
   <img src="https://media3.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="25">
-</h3><p align="center">
+</h2><p align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/thuantran241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
 <a href="https://www.facebook.com/ducthuan224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
