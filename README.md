@@ -31,7 +31,7 @@
   </tr>
   <tr style="border: 1px solid white;">
     <td colspan="2" align="center">
-      <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
+      <img align="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
     </td>
   </tr>
 </table>
