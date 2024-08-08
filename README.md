@@ -5,11 +5,23 @@
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr style="border: 1px solid white;">
     <td width="50%" align="left">
-      - 🌱 Major: Computer Vision<br>
-      - 🧑‍🎓 University: HUIT<br>
-      - 📫 Contact Information: tranducthuan220401@gmail.com<br>
-      - ⚡ Call me: Ota<br>
-      - 😻 Interests: Cat, Exploring new technology, ...
+      <table>
+        <tr>
+          <td align="center" valign="middle"><strong>About me</strong></td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Major: Computer Vision</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">University: HUIT</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Contact: tranducthuan220401@gmail.com</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Interests: Cat, Exploring new technology, ...</td>
+        </tr>
+      </table>
     </td>
     <td width="25%" align="center">
       <table>
@@ -21,6 +33,9 @@
         </tr>
         <tr>
           <td align="center" valign="middle">Data Science</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Deep Learning</td>
         </tr>
         <tr>
           <td align="center" valign="middle">Artificial Intelligence</td>
