@@ -4,7 +4,7 @@
 ---
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr>
-    <td width="40%" align="left">
+    <td width="40%" align="center">
       <table>
         <tr>
           <td align="center" valign="middle"><strong>About me</strong></td>
