@@ -113,7 +113,11 @@
 
 ---
 
-<h3 align="center">Connect</h3>
+<h3 align="center">
+  <img src="https://github.com/user-attachments/assets/a412b46d-2691-4c03-ac63-fd9bc5ee59de" width="25">
+  Languages and Tools
+  <img src="https://github.com/user-attachments/assets/a412b46d-2691-4c03-ac63-fd9bc5ee59de" width="25">
+</h3><p align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/thuan-tran-831366317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
 <a href="https://www.facebook.com/ducthuan224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
