@@ -4,14 +4,14 @@
 ---
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr style="border: 1px solid white;">
-    <td width="60%" align="left">
+    <td width="50%" align="left">
       - 🌱 Major: Computer Vision<br>
       - 🧑‍🎓 University: HUIT<br>
       - 📫 Contact Information: tranducthuan220401@gmail.com<br>
       - ⚡ Call me: Ota<br>
       - 😻 Interests: Cat, Exploring new technology, ...
     </td>
-    <td width="20%" align="center">
+    <td width="25%" align="center">
       <table>
         <tr>
           <td align="center" valign="middle"><strong>Ask me about</strong></td>
@@ -27,7 +27,7 @@
         </tr>
       </table>
     </td>
-    <td width="20%" align="center">
+    <td width="25%" align="center">
       <img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
     </td>
   </tr>
