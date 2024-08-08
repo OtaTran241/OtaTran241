@@ -1,35 +1,37 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="100px"></p>
 <h1 align="center">Hi, I'm Ota. Information technology student with a passion for exploring technology and artificial intelligence 💻</h1>
 
-<table align="center">
-<tr style="border: 1px solid white;">
-<td width="50%" align="left">
-
-- 🌱 I’m currently learning **Computer Vision**
-
-- 🧑‍🎓 I’m an Undergraduate at **HUIT**
-
-- 📫 How to reach me **tranducthuan220401@gmail.com**
-
-- ⚡ Fun fact **You can call me Ota**
-
-</td>
-<td width="50%" align="center">
-  <tr>
-    <td align="center" valign="middle">Ask me about</td>
-    <td align="center" valign="middle">Machine Learning</td>
-    <td align="center" valign="middle">Data Science</td>
-    <td align="center" valign="middle">Artificial Intelligence</td>
+<table align="center" border="1" style="border-collapse: collapse;">
+  <tr style="border: 1px solid white;">
+    <td width="50%" align="left">
+      - 🌱 I’m currently learning **Computer Vision**<br>
+      - 🧑‍🎓 I’m an Undergraduate at **HUIT**<br>
+      - 📫 How to reach me **tranducthuan220401@gmail.com**<br>
+      - ⚡ Fun fact **You can call me Ota**
+    </td>
+    <td width="50%" align="center">
+      <table>
+        <tr>
+          <td align="center" valign="middle">Ask me about</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Machine Learning</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Data Science</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Artificial Intelligence</td>
+        </tr>
+      </table>
+    </td>
   </tr>
-</td>
-</tr>
-<tr style="border: 1px solid white;">
-<td colspan="2" align="center">
-  <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
-</td>
-</tr>
+  <tr style="border: 1px solid white;">
+    <td colspan="2" align="center">
+      <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
+    </td>
+  </tr>
 </table>
-
 ---
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My Statistics: </h3>
