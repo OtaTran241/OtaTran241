@@ -4,10 +4,10 @@
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr style="border: 1px solid white;">
     <td width="50%" align="left">
-      - 🌱 I’m currently learning **Computer Vision**<br>
-      - 🧑‍🎓 I’m an Undergraduate at **HUIT**<br>
-      - 📫 How to reach me **tranducthuan220401@gmail.com**<br>
-      - ⚡ Fun fact **You can call me Ota**
+      - 🌱 I’m currently learning: Computer Vision<br>
+      - 🧑‍🎓 I’m an Undergraduate at: HUIT<br>
+      - 📫 How to reach me: tranducthuan220401@gmail.com<br>
+      - ⚡ Fun fact: You can call me Ota
     </td>
     <td width="50%" align="center">
       <table>
