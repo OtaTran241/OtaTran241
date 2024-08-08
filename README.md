@@ -137,6 +137,7 @@
   <img src="https://media3.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="25">
 </h2><p align="center">
 <p align="center">
-<a href="https://www.linkedin.com/in/thuantran241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
-<a href="https://www.facebook.com/ducthuan224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/thuantran241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="linkedin"/></a>
+<a href="https://www.facebook.com/ducthuan224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" alt="facebook"/></a>
+<a href="mailto:tranducthuan220401@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="40" width="40" alt="email"/></a>
 </p>
