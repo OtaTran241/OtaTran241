@@ -12,7 +12,7 @@
     <td width="50%" align="center">
       <table>
         <tr>
-          <td align="center" valign="middle">Ask me about</td>
+          <td align="center" valign="middle"><strong>Ask me about</strong></td>
         </tr>
         <tr>
           <td align="center" valign="middle">Machine Learning</td>
