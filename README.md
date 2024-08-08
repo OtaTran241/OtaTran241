@@ -65,9 +65,9 @@
 
 ---
 <h3 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25" align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
   Languages and Tools
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25" align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VnODBtMGlmYjl0ZWVodDVyd3liZ3A1MXZ5aHh3cDJsaHU3Y2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
 </h3><p align="center">
   
 <p align="center">
