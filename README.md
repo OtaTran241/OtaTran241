@@ -4,7 +4,7 @@
 ---
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr>
-    <td width="40%" align="left">
+    <td width="45%" align="left">
       <table>
         <tr>
           <td align="center" valign="middle"><strong>About me</strong></td>
@@ -23,7 +23,7 @@
         </tr>
       </table>
     </td>
-    <td width="20%" align="center">
+    <td width="25%" align="center">
       <table>
         <tr>
           <td align="center" valign="middle"><strong>Ask me about</strong></td>
