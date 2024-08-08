@@ -89,7 +89,7 @@
 
 ---
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+  <img src="https://i.giphy.com/3o7btWe1qDbqQyCWje.gif" width="25">
   Statistics
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
 </h3><p align="center">
