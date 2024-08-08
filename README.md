@@ -2,7 +2,7 @@
 <h2 align="center">💻 IT student passionate about Technology and AI 💻</h2>
 
 ---
-<table align="center" border="2" style="border-collapse: collapse;">
+<table align="center" border="1" style="border-collapse: collapse;">
   <tr>
     <td width="40%" align="left">
       <table>
