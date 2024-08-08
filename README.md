@@ -11,7 +11,7 @@
     <td width="40%" align="center">
       <table>
         <tr>
-          <td align="center" valign="middle"><strong>About me</strong></td>
+          <td align="center" valign="middle"><strong>✅ About me ✅</strong></td>
         </tr>
         <tr>
           <td align="center" valign="middle">University: HUIT</td>
@@ -30,7 +30,7 @@
     <td width="20%" align="center">
       <table>
         <tr>
-          <td align="center" valign="middle"><strong>Ask me about</strong></td>
+          <td align="center" valign="middle"><strong>🌟 Ask me about 🌟</strong></td>
         </tr>
         <tr>
           <td align="center" valign="middle">Machine Learning</td>
