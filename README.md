@@ -9,8 +9,7 @@
       - 🌱 Major: Computer Vision<br>
       - 🧑‍🎓 University: HUIT<br>
       - 📫 Contact Information: tranducthuan220401@gmail.com<br>
-      - ⚡ Call me: Ota
-      - 😻 Interests: Cat, Exploring new technology, ...
+      - ⚡ Call me: Ota<br>
       - 😻 Interests: Cat, Exploring new technology, ...
     </td>
     <td width="50%" align="center">
