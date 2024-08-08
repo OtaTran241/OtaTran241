@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/user-attachments/assets/fba19f18-2234-42c0-9e02-71a8eceedbf9" width="70"> I'm Ota</h1>
+<h1 align="center"><img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="70"> I'm Ota</h1>
 <h2 align="center">💻 IT student passionate about Technology and AI 💻</h2>
 
 ---
