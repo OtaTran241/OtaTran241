@@ -88,8 +88,12 @@
 </p>
 
 ---
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+  Statistics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+</h3><p align="center">
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My Statistics</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
