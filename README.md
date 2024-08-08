@@ -9,9 +9,9 @@
 <table align="center" border="1" style="border-collapse: collapse;">
   <tr>
     <td width="40%" align="center">
-      <table style="background-color: #39FF14; border-collapse: collapse;">
+      <table>
         <tr>
-          <td align="center" valign="middle" style="background-color: #39FF14;"><strong>About me</strong></td>
+          <td align="center" valign="middle"><strong>About me</strong></td>
         </tr>
         <tr>
           <td align="center" valign="middle">University: HUIT</td>
@@ -28,7 +28,7 @@
       </table>
     </td>
     <td width="20%" align="center">
-      <table style="background-color: #f0f0f0;">
+      <table>
         <tr>
           <td align="center" valign="middle"><strong>Ask me about</strong></td>
         </tr>
