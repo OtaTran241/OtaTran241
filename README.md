@@ -27,6 +27,9 @@
         </tr>
       </table>
     </td>
+    <td width="40%" align="center">
+      <img align="center" alt="Coding" width="80%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
+    </td>
     <td width="20%" align="center">
       <table>
         <tr>
@@ -45,9 +48,6 @@
           <td align="center" valign="middle">Artificial Intelligence</td>
         </tr>
       </table>
-    </td>
-    <td width="40%" align="center">
-      <img align="center" alt="Coding" width="80%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
     </td>
   </tr>
 </table>
