@@ -107,11 +107,11 @@
 </p>
 
 ---
-<h3 align="center">
+<h2 align="center">
   <img src="https://i.giphy.com/3o7btWe1qDbqQyCWje.gif" width="25">
   Statistics
   <img src="https://i.giphy.com/3o7btWe1qDbqQyCWje.gif" width="25">
-</h3><p align="center">
+</h2><p align="center">
 
 <p align="center">
 <table align="center">
