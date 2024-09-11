@@ -72,8 +72,8 @@
 <a href="https://github.com/OtaTran241/Remove_Background_With_GAN_Network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Remove_Background_With_GAN_Network&theme=onedark" />
 </a>
-<a href="https://github.com/OtaTran241/2.5D_Unity_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=dracula" />
+<a href="https://github.com/OtaTran241/Vehicle_Detection_WebAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Vehicle_Detection_WebAPI&theme=dracula" />
 </a>
 <a href="https://github.com/OtaTran241/2.5D_Unity_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=synthwave" />
