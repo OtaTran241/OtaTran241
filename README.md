@@ -78,6 +78,12 @@
 <a href="https://github.com/OtaTran241/2.5D_Unity_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=synthwave" />
 </a>
+<a href="https://github.com/OtaTran241/MLOps_GithubActions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=MLOps_GithubActions&theme=yeblu" />
+</a>
+<a href="https://github.com/OtaTran241/VehiclesDetection_FasterRCNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=blueberry" />
+</a>
 </p>
 
 ---
