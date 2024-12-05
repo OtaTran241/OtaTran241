@@ -63,8 +63,8 @@
 <a href="https://github.com/OtaTran241/AI_Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=AI_Assistant&theme=tokyonight" />
 </a>
-<a href="https://github.com/OtaTran241/ChickenInvaders_HandPoseEstimation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=cobalt" />
+<a href="https://github.com/OtaTran241/NLP_Toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=NLP_Toolkit&theme=tokyonight" />
 </a>
 <a href="https://github.com/OtaTran241/Stock_Price_Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Stock_Price_Prediction&theme=gruvbox" />
@@ -84,11 +84,11 @@
 <a href="https://github.com/OtaTran241/Tower_Defense_Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Tower_Defense_Game&theme=blueberry" />
 </a>
-<a href="https://github.com/OtaTran241/NLP_Toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=NLP_Toolkit&theme=tokyonight" />
-</a>
 <a href="https://github.com/OtaTran241/VehiclesDetection_FasterRCNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=highcontrast" />
+</a>
+<a href="https://github.com/OtaTran241/ChickenInvaders_HandPoseEstimation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=cobalt" />
 </a>
 </p>
 
