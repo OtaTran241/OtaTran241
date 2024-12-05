@@ -85,7 +85,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Tower_Defense_Game&theme=blueberry" />
 </a>
 <a href="https://github.com/OtaTran241/VehiclesDetection_FasterRCNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=radical" />
 </a>
 <a href="https://github.com/OtaTran241/ChickenInvaders_HandPoseEstimation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=cobalt" />
