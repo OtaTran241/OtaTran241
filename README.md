@@ -81,7 +81,9 @@
 <a href="https://github.com/OtaTran241/MLOps_GithubActions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=MLOps_GithubActions&theme=slateorange" />
 </a>
-
+<a href="https://github.com/OtaTran241/Tower_Defense_Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Tower_Defense_Game&theme=blueberry" />
+</a>
 <a href="https://github.com/OtaTran241/NLP_Toolkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=NLP_Toolkit&theme=blueberry" />
 </a>
