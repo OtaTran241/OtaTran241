@@ -82,13 +82,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=MLOps_GithubActions&theme=slateorange" />
 </a>
 <a href="https://github.com/OtaTran241/Tower_Defense_Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Tower_Defense_Game&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Tower_Defense_Game&theme=cobalt" />
 </a>
 <a href="https://github.com/OtaTran241/VehiclesDetection_FasterRCNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=VehiclesDetection_FasterRCNN&theme=dracula" />
 </a>
 <a href="https://github.com/OtaTran241/ChickenInvaders_HandPoseEstimation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=tokyonight" />
 </a>
 </p>
 
