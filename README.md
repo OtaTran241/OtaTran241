@@ -64,10 +64,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=AI_Assistant&theme=tokyonight" />
 </a>
 <a href="https://github.com/OtaTran241/NLP_Toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=NLP_Toolkit&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=NLP_Toolkit&theme=gruvbox" />
 </a>
 <a href="https://github.com/OtaTran241/Stock_Price_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Stock_Price_Prediction&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Stock_Price_Prediction&theme=merko" />
 </a>
 <a href="https://github.com/OtaTran241/Remove_Background_With_GAN_Network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Remove_Background_With_GAN_Network&theme=onedark" />
