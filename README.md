@@ -17,6 +17,9 @@
           <td align="center" valign="middle">University: HUIT</td>
         </tr>
         <tr>
+          <td align="center" valign="middle">Major: Information Technology</td>
+        </tr>
+        <tr>
           <td align="center" valign="middle">Contact: tranducthuan220401@gmail.com</td>
         </tr>
         <tr>
@@ -33,13 +36,16 @@
           <td align="center" valign="middle"><strong>🌟 Ask me about 🌟</strong></td>
         </tr>
         <tr>
-          <td align="center" valign="middle">Machine Learning / AI</td>
+          <td align="center" valign="middle">Machine Learning/AI</td>
         </tr>
         <tr>
           <td align="center" valign="middle">Game Developer</td>
         </tr>
         <tr>
           <td align="center" valign="middle">C++ Developer</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">Data Science</td>
         </tr>
       </table>
     </td>
