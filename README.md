@@ -90,6 +90,9 @@
 <a href="https://github.com/OtaTran241/ChickenInvaders_HandPoseEstimation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=tokyonight" />
 </a>
+<a href="https://github.com/OtaTran241/Fine_Tuning_Llama3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Fine_Tuning_Llama3&theme=synthwave" />
+</a>
 </p>
 
 ---
