@@ -39,10 +39,10 @@
           <td align="center" valign="middle">AI / Machine Learning</td>
         </tr>
         <tr>
-          <td align="center" valign="middle">Game Developer</td>
+          <td align="center" valign="middle">C++ Developer</td>
         </tr>
         <tr>
-          <td align="center" valign="middle">C++ Developer</td>
+          <td align="center" valign="middle">Game Developer</td>
         </tr>
         <tr>
           <td align="center" valign="middle">Data Science</td>
