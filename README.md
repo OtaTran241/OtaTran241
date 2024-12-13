@@ -33,7 +33,7 @@
     <td width="20%" align="center">
       <table>
         <tr>
-          <td align="center" valign="middle"><strong>🌟 Ask me about 🌟</strong></td>
+          <td align="center" valign="middle"><strong>🌟 Experience 🌟</strong></td>
         </tr>
         <tr>
           <td align="center" valign="middle">AI / Machine Learning</td>
