@@ -36,7 +36,7 @@
           <td align="center" valign="middle"><strong>🌟 Ask me about 🌟</strong></td>
         </tr>
         <tr>
-          <td align="center" valign="middle">Machine Learning/AI</td>
+          <td align="center" valign="middle">Machine Learning / AI</td>
         </tr>
         <tr>
           <td align="center" valign="middle">Game Developer</td>
