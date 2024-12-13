@@ -75,6 +75,9 @@
 <a href="https://github.com/OtaTran241/Vehicle_Detection_WebAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Vehicle_Detection_WebAPI&theme=dracula" />
 </a>
+<a href="https://github.com/OtaTran241/Fine_Tuning_Llama3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Fine_Tuning_Llama3&theme=synthwave" />
+</a>
 <a href="https://github.com/OtaTran241/2.5D_Unity_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=onedark" />
 </a>
@@ -90,8 +93,8 @@
 <a href="https://github.com/OtaTran241/ChickenInvaders_HandPoseEstimation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=tokyonight" />
 </a>
-<a href="https://github.com/OtaTran241/Fine_Tuning_Llama3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Fine_Tuning_Llama3&theme=synthwave" />
+<a href="https://github.com/tranducthuan220401/2D_Unity_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranducthuan220401&repo=2D_Unity_project&theme=slateorange" />
 </a>
 </p>
 
