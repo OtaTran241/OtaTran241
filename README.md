@@ -94,7 +94,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=ChickenInvaders_HandPoseEstimation&theme=tokyonight" />
 </a>
 <a href="https://github.com/tranducthuan220401/2D_Unity_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranducthuan220401&repo=2D_Unity_project&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tranducthuan220401&repo=2D_Unity_project&theme=gruvbox" />
 </a>
 </p>
 
