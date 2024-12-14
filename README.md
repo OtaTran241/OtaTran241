@@ -76,7 +76,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Vehicle_Detection_WebAPI&theme=dracula" />
 </a>
 <a href="https://github.com/OtaTran241/Fine_Tuning_Llama3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Fine_Tuning_Llama3&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Fine_Tuning_Llama3&theme=cobalt" />
 </a>
 <a href="https://github.com/OtaTran241/2.5D_Unity_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=2.5D_Unity_project&theme=onedark" />
