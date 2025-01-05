@@ -61,10 +61,10 @@
 </h2><p align="center">
   
 <a href="https://github.com/OtaTran241/AI_Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=AI_Assistant&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=AI_Assistant&theme=gruvbox" />
 </a>
 <a href="https://github.com/OtaTran241/NLP_Toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=NLP_Toolkit&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=NLP_Toolkit&theme=tokyonight" />
 </a>
 <a href="https://github.com/OtaTran241/Vehicle_Detection_WebAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OtaTran241&repo=Vehicle_Detection_WebAPI&theme=merko" />
