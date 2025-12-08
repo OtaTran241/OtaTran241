@@ -1,11 +1,16 @@
-<h1 align="center">
-  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="150">
-  Hi, i'm OTA
-  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="150">
-</h1>
+<td width="40%" align="center">
+  <img align="center" alt="Coding" width="80%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
+</td>
 
-<h2 align="center">💻 IT student passionate about Technology and AI 💻</h2>
-
+<td width="20%" align="center">
+  <table>
+    <tr><td align="center"><strong>🌟 Experiences 🌟</strong></td></tr>
+    <tr><td align="center">AI / Machine Learning</td></tr>
+    <tr><td align="center">C++ Developer</td></tr>
+    <tr><td align="center">Game Developer</td></tr>
+    <tr><td align="center">Data Science</td></tr>
+  </table>
+</td>
 ---
 
 <table align="center">
