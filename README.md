@@ -68,34 +68,75 @@
   <img src="https://media2.giphy.com/media/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
 </h2>
 
-<!-- Stable project badges (No API, never breaks) -->
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/OtaTran241/AI_Assistant">
-    <img src="https://img.shields.io/badge/AI_Assistant-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/OtaTran241/NLP_Toolkit">
-    <img src="https://img.shields.io/badge/NLP_Toolkit-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/OtaTran241/Vehicle_Detection_WebAPI">
-    <img src="https://img.shields.io/badge/Vehicle_Detection_WebAPI-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/OtaTran241/Remove_Background_With_GAN">
-    <img src="https://img.shields.io/badge/Remove_Background_With_GAN-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/OtaTran241/Fine_Tuning_Llama3">
-    <img src="https://img.shields.io/badge/Fine_Tuning_Llama3-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/OtaTran241/MLOps_GithubActions">
-    <img src="https://img.shields.io/badge/MLOps_GithubActions-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
+<!-- AI Assistant -->
+<a href="https://github.com/OtaTran241/AI_Assistant">
+  <h3>🚀 AI Assistant</h3>
+</a>
+<p>A modular AI assistant system built using Python, NLP, and deep learning.</p>
+<p>
+  ⭐ Stars:
+  <img src="https://img.shields.io/github/stars/OtaTran241/AI_Assistant?style=social" />
 </p>
+<hr width="60%">
+
+<!-- NLP Toolkit -->
+<a href="https://github.com/OtaTran241/NLP_Toolkit">
+  <h3>🧠 NLP Toolkit</h3>
+</a>
+<p>Toolkit for text preprocessing, embeddings, and NLP model experiments.</p>
+<p>
+  ⭐ Stars:
+  <img src="https://img.shields.io/github/stars/OtaTran241/NLP_Toolkit?style=social" />
+</p>
+<hr width="60%">
+
+<!-- Vehicle Detection -->
+<a href="https://github.com/OtaTran241/Vehicle_Detection_WebAPI">
+  <h3>🚗 Vehicle Detection WebAPI</h3>
+</a>
+<p>A full Web API for vehicle detection using PyTorch Faster R-CNN.</p>
+<p>
+  ⭐ Stars:
+  <img src="https://img.shields.io/github/stars/OtaTran241/Vehicle_Detection_WebAPI?style=social" />
+</p>
+<hr width="60%">
+
+<!-- Remove Background with GAN -->
+<a href="https://github.com/OtaTran241/Remove_Background_With_GAN">
+  <h3>🎨 Remove Background with GAN</h3>
+</a>
+<p>Background removal model powered by custom GAN architecture.</p>
+<p>
+  ⭐ Stars:
+  <img src="https://img.shields.io/github/stars/OtaTran241/Remove_Background_With_GAN?style=social" />
+</p>
+<hr width="60%">
+
+<!-- Fine Tuning Llama3 -->
+<a href="https://github.com/OtaTran241/Fine_Tuning_Llama3">
+  <h3>🤖 Fine Tuning Llama 3</h3>
+</a>
+<p>Training and customizing LLaMA-3 for specialized downstream tasks.</p>
+<p>
+  ⭐ Stars:
+  <img src="https://img.shields.io/github/stars/OtaTran241/Fine_Tuning_Llama3?style=social" />
+</p>
+<hr width="60%">
+
+<!-- MLOps GitHub Actions -->
+<a href="https://github.com/OtaTran241/MLOps_GithubActions">
+  <h3>⚙️ MLOps with GitHub Actions</h3>
+</a>
+<p>CI/CD workflow for machine learning deployment using GitHub Actions.</p>
+<p>
+  ⭐ Stars:
+  <img src="https://img.shields.io/github/stars/OtaTran241/MLOps_GithubActions?style=social" />
+</p>
+<hr width="60%">
+
+</div>
 
 ---
 
