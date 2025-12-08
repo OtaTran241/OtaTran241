@@ -1,41 +1,60 @@
-<td width="40%" align="center">
-  <img align="center" alt="Coding" width="80%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
-</td>
+<h1 align="center">
+  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="150">
+  Hi, I'm OTA
+  <img src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.gif" width="150">
+</h1>
 
-<td width="20%" align="center">
-  <table>
-    <tr><td align="center"><strong>🌟 Experiences 🌟</strong></td></tr>
-    <tr><td align="center">AI / Machine Learning</td></tr>
-    <tr><td align="center">C++ Developer</td></tr>
-    <tr><td align="center">Game Developer</td></tr>
-    <tr><td align="center">Data Science</td></tr>
-  </table>
-</td>
+<h2 align="center">
+  💻 IT student passionate about Technology and AI 💻
+</h2>
+
 ---
 
 <table align="center">
   <tr>
     <td width="40%" align="center">
       <table>
-        <tr><td align="center"><strong>✅ About me ✅</strong></td></tr>
-        <tr><td align="center">University: HUIT</td></tr>
-        <tr><td align="center">Major: Information Technology</td></tr>
-        <tr><td align="center">Contact: tranducthuan220401@gmail.com</td></tr>
-        <tr><td align="center">Interests: Cat, Exploring new technology, ...</td></tr>
+        <tr>
+          <td align="center"><strong>✅ About me ✅</strong></td>
+        </tr>
+        <tr>
+          <td align="center">University: HUIT</td>
+        </tr>
+        <tr>
+          <td align="center">Major: Information Technology</td>
+        </tr>
+        <tr>
+          <td align="center">Contact: tranducthuan220401@gmail.com</td>
+        </tr>
+        <tr>
+          <td align="center">Interests: Cat, Exploring new technology, ...</td>
+        </tr>
       </table>
     </td>
-
     <td width="40%" align="center">
-      <img align="center" alt="Coding" width="80%" src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d">
+      <img
+        src="https://github.com/user-attachments/assets/b68ab778-df61-45ca-b4be-09b79b1cf07d"
+        alt="Coding"
+        width="80%"
+      >
     </td>
-
     <td width="20%" align="center">
       <table>
-        <tr><td align="center"><strong>🌟 Experiences 🌟</strong></td></tr>
-        <tr><td align="center">AI / Machine Learning</td></tr>
-        <tr><td align="center">C++ Developer</td></tr>
-        <tr><td align="center">Game Developer</td></tr>
-        <tr><td align="center">Data Science</td></tr>
+        <tr>
+          <td align="center"><strong>🌟 Experiences 🌟</strong></td>
+        </tr>
+        <tr>
+          <td align="center">AI / Machine Learning</td>
+        </tr>
+        <tr>
+          <td align="center">C++ Developer</td>
+        </tr>
+        <tr>
+          <td align="center">Game Developer</td>
+        </tr>
+        <tr>
+          <td align="center">Data Science</td>
+        </tr>
       </table>
     </td>
   </tr>
