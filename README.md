@@ -61,82 +61,44 @@
 </table>
 
 ---
-
 <h2 align="center">
   <img src="https://media2.giphy.com/media/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
   Projects
   <img src="https://media2.giphy.com/media/VIWVhLsuxwBPtLYX8k/giphy.gif" width="25">
 </h2>
 
-<div align="center">
-
-<!-- AI Assistant -->
-<a href="https://github.com/OtaTran241/AI_Assistant">
-  <h3>🚀 AI Assistant</h3>
-</a>
-<p>A modular AI assistant system built using Python, NLP, and deep learning.</p>
-<p>
-  ⭐ Stars:
-  <img src="https://img.shields.io/github/stars/OtaTran241/AI_Assistant?style=social" />
-</p>
-<hr width="60%">
-
-<!-- NLP Toolkit -->
-<a href="https://github.com/OtaTran241/NLP_Toolkit">
-  <h3>🧠 NLP Toolkit</h3>
-</a>
-<p>Toolkit for text preprocessing, embeddings, and NLP model experiments.</p>
-<p>
-  ⭐ Stars:
-  <img src="https://img.shields.io/github/stars/OtaTran241/NLP_Toolkit?style=social" />
-</p>
-<hr width="60%">
-
-<!-- Vehicle Detection -->
-<a href="https://github.com/OtaTran241/Vehicle_Detection_WebAPI">
-  <h3>🚗 Vehicle Detection WebAPI</h3>
-</a>
-<p>A full Web API for vehicle detection using PyTorch Faster R-CNN.</p>
-<p>
-  ⭐ Stars:
-  <img src="https://img.shields.io/github/stars/OtaTran241/Vehicle_Detection_WebAPI?style=social" />
-</p>
-<hr width="60%">
-
-<!-- Remove Background with GAN -->
-<a href="https://github.com/OtaTran241/Remove_Background_With_GAN">
-  <h3>🎨 Remove Background with GAN</h3>
-</a>
-<p>Background removal model powered by custom GAN architecture.</p>
-<p>
-  ⭐ Stars:
-  <img src="https://img.shields.io/github/stars/OtaTran241/Remove_Background_With_GAN?style=social" />
-</p>
-<hr width="60%">
-
-<!-- Fine Tuning Llama3 -->
-<a href="https://github.com/OtaTran241/Fine_Tuning_Llama3">
-  <h3>🤖 Fine Tuning Llama 3</h3>
-</a>
-<p>Training and customizing LLaMA-3 for specialized downstream tasks.</p>
-<p>
-  ⭐ Stars:
-  <img src="https://img.shields.io/github/stars/OtaTran241/Fine_Tuning_Llama3?style=social" />
-</p>
-<hr width="60%">
-
-<!-- MLOps GitHub Actions -->
-<a href="https://github.com/OtaTran241/MLOps_GithubActions">
-  <h3>⚙️ MLOps with GitHub Actions</h3>
-</a>
-<p>CI/CD workflow for machine learning deployment using GitHub Actions.</p>
-<p>
-  ⭐ Stars:
-  <img src="https://img.shields.io/github/stars/OtaTran241/MLOps_GithubActions?style=social" />
-</p>
-<hr width="60%">
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/OtaTran241/AI_Assistant"><h3>🚀 AI Assistant</h3></a>
+      <p>A modular AI assistant system built using Python, NLP, and deep learning.</p>
+      <p>⭐ <img src="https://img.shields.io/github/stars/OtaTran241/AI_Assistant?style=social"/></p>
+      <hr>
+      <a href="https://github.com/OtaTran241/NLP_Toolkit"><h3>🧠 NLP Toolkit</h3></a>
+      <p>Toolkit for text preprocessing, embeddings, and NLP model experiments.</p>
+      <p>⭐ <img src="https://img.shields.io/github/stars/OtaTran241/NLP_Toolkit?style=social"/></p>
+      <hr>
+      <a href="https://github.com/OtaTran241/Vehicle_Detection_WebAPI"><h3>🚗 Vehicle Detection WebAPI</h3></a>
+      <p>A complete API for vehicle detection using PyTorch Faster R-CNN.</p>
+      <p>⭐ <img src="https://img.shields.io/github/stars/OtaTran241/Vehicle_Detection_WebAPI?style=social"/></p>
+      <hr>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/OtaTran241/Remove_Background_With_GAN"><h3>🎨 Remove Background with GAN</h3></a>
+      <p>Background removal using a custom GAN architecture.</p>
+      <p>⭐ <img src="https://img.shields.io/github/stars/OtaTran241/Remove_Background_With_GAN?style=social"/></p>
+      <hr>
+      <a href="https://github.com/OtaTran241/Fine_Tuning_Llama3"><h3>🤖 Fine Tuning Llama 3</h3></a>
+      <p>Fine-tuning and customizing LLaMA-3 for downstream machine learning tasks.</p>
+      <p>⭐ <img src="https://img.shields.io/github/stars/OtaTran241/Fine_Tuning_Llama3?style=social"/></p>
+      <hr>
+      <a href="https://github.com/OtaTran241/MLOps_GithubActions"><h3>⚙️ MLOps with GitHub Actions</h3></a>
+      <p>CI/CD automation workflow for machine learning deployment using GitHub Actions.</p>
+      <p>⭐ <img src="https://img.shields.io/github/stars/OtaTran241/MLOps_GithubActions?style=social"/></p>
+      <hr>
+    </td>
+  </tr>
+</table>
 
 ---
 
